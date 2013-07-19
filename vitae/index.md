@@ -5,24 +5,23 @@ avatar: no
 
 # Contact Information
 
-College of Economics, Zhejiang University
-
-38 Zheda Road, Hangzhou 310027, China
-
-Email: <mailto:yqu@zju.edu.cn>
-
-Homepage: <http://imquyi.com/>
+- College of Economics, Zhejiang University
+	38 Zheda Road, Hangzhou 310027, China
+- Email: <mailto:yqu@zju.edu.cn>
+- Homepage: <http://imquyi.com/>
 
 # Education
 
-## Zhejiang University
+**Zhejiang University**
 
-- Ph.D. Student (International Economics), College of Economics
+- Ph.D. Student (International Economics)
+- College of Economics
 - July 2010 ~ Present
 
-## Wuhan University
+**Wuhan University**
 
-- B.A. (World Economy), School of Economics and Management
+- B.A. (World Economy)
+- School of Economics and Management
 - Sept. 2006 ~ June 2010
 - 1^st Class Scholarship of Wuhan University
 - 学士学位论文《气候变化与低碳经济条件下的中美能源博弈》，获湖北省优秀学士学位论文奖
@@ -34,7 +33,7 @@ Homepage: <http://imquyi.com/>
 
 # Books
 
-- 《中国粮食安全与全球粮食定价权——基于产业链视角的分析》（与马述忠、王军合著），XX出版社，yyyy年
+- 《中国粮食安全与全球粮食定价权——基于产业链视角的分析》（与马述忠、王军合著），XX：XX出版社，yyyy年
 
 # Book Sections
 
