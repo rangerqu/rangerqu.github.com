@@ -35,12 +35,15 @@ img {
 max-width:100%;
 height:auto;
 border:0;
+-ms-interpolation-mode:bicubic;
+-webkit-border-radius:4px;
+-moz-border-radius:4px;
+border-radius:4px;
 }
 
 p img {
 clear:both;
 display:block;
-padding-top: 10px;
 margin-left:auto;
 margin-right:auto;
 border:0;
@@ -81,7 +84,6 @@ font-size:15px;
 line-height:30px;
 color:#555;
 margin:0 0 15px;
-text-align: center;
 }
 
 p small {

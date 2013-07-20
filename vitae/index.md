@@ -1,6 +1,5 @@
 ---
-layout: home
-avatar: no
+layout: vitae
 ---
 
 # Contact Information
