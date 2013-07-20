@@ -9,7 +9,7 @@ I'm a fourth-year Ph.D. student at Zhejiang University.
 
 ![whu](/img/whu.png)
 
-I received a bachelor's degree at Wuhan University, which has the most beautiful campus in China.  
+I received a bachelor's degree in economics at Wuhan University.  
 我在美丽的<strike>捂汗</strike>武汉大学度过了四年时光。
 
 ![id](/img/id.png)
