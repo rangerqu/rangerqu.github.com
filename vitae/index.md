@@ -4,7 +4,7 @@ layout: vitae
 
 # Contact Information
 
-- College of Economics, Zhejiang University
+- College of Economics, Zhejiang University  
 	38 Zheda Road, Hangzhou 310027, China
 - Email: <mailto:yqu@zju.edu.cn>
 - Homepage: <http://imquyi.com/>
