@@ -19,7 +19,7 @@ You can find me on [Twitter](https://twitter.com/rangerqu), [Facebook](https://w
 
 ![name](/img/name.png)
 
-My name Yi means art or talent in Chinese.  
+My name Yi means creative talent, cultivation or limitation in Chinese.  
 皇览揆余于初度兮，名余曰屈艺，像个女孩名字。
 
 ![birth](/img/birth.png)
