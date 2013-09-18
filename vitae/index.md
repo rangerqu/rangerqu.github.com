@@ -28,7 +28,7 @@ layout: vitae
 # Papers
 
 - "Market Integration and Transaction Costs: Analysis of Grain Markets in China" (with Shuzhong Ma), 5th CAER-IFPRI Annual Conference, 17-18 Oct. 2013, Wuhan, China.
-- “市场整合、交易成本与粮食安全——基于中国粮食市场空间价格传导的实证”（与马述忠合作），空间经济学国际研讨会（2012），杭州。
+- “市场整合、交易成本与粮食安全——基于中国粮食市场空间价格传导的实证”（与马述忠合作），空间经济学国际研讨会（2012），2012年11月17-18日，杭州。
 
 <!--
 
