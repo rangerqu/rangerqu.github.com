@@ -54,4 +54,4 @@ layout: vitae
 
 # Presentations
 
-- 5th CAER-IFPRI Annual Conference, 17-18 Oct. 2013, Wuhan, China.
+- 5th CAER-IFPRI Annual Conference, 17 Oct. 2013, Wuhan, China.
