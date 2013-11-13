@@ -27,7 +27,7 @@ pre code{margin:1em 0;font-size:13px;line-height:1.6;display:block;overflow:auto
 blockquote{display:block;text-align:justify;border-left:4px solid #eeeeee;}
 blockquote{margin:1em 0em;padding-left:1.5em;}
 blockquote p{margin:0;padding:.5em 0;}
-#container{width:600px;margin:2em auto;display:block;padding:0 2em;}
+#container{*width:600px;max-width:600px;margin:2em auto;display:block;padding:0 2em;}
 .content{font-size:16px;line-height:24px;}
 .content h1{padding:.5em 0;}
 .content img{max-width:600px;display:block;text-align:left;margin:4px auto;}
@@ -52,3 +52,17 @@ pre,code{font-family:Menlo,"Andale Mono",Consolas,"Courier New",Monaco,monospace
 code{background-color:#F7F7F7;}
 embed,object,iframe{display:block;margin:4px auto;}
 .gist{font-size: 12px;line-height:1.6;}
+@media screen (max-wdith: 560px) {
+  #main nav {
+    float: none;
+    margin: 0;
+    width: auto;
+    text-align: left;
+  }
+  #main nav .logo {
+    display: none;
+  }
+  #main nav a {
+    display: inline-block;
+  }
+}
