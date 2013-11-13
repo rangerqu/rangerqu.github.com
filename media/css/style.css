@@ -52,17 +52,17 @@ pre,code{font-family:Menlo,"Andale Mono",Consolas,"Courier New",Monaco,monospace
 code{background-color:#F7F7F7;}
 embed,object,iframe{display:block;margin:4px auto;}
 .gist{font-size: 12px;line-height:1.6;}
-@media screen (max-width: 650px) {
-  #main nav {
+@media (max-width: 650px) {
+  nav {
     float: none;
     margin: 0;
     width: auto;
     text-align: left;
   }
-  #main nav .logo {
+  nav .logo {
     display: none;
   }
-  #main nav a {
+  nav a {
     display: inline-block;
   }
 }
