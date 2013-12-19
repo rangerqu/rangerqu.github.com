@@ -1,59 +1,25 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
 <head>
-  <meta charset="utf-8">
-  <title>Yi Qu | 屈艺</title>
-  <meta name="author" content="Yi Qu | 屈艺"/>
-  <meta name="viewport" content="width=device-width; initial-scale=1.0">
-  <link rel="stylesheet" type="text/css" href="/media/css/vitae.css">
-  <style type="text/css">
-  html, body {
-    background-color: #F8F8F8;
-  }
-  .container > footer p , .postheader > a{
-    text-align: center;
-  }
-  .date {
-    text-align: center;
-    height: 30px;
-    color:#bfbfbf;
-    margin-bottom: 10px;
-  }
-  /* Specify class=linenums on a pre to get line numbering */
-  ol.linenums {
-    margin: 0 0 0 33px; /* IE indents via margin-left */
-  } 
-  ol.linenums li {
-    padding-left: 12px;
-    color: #bebec5;
-    line-height: 18px;
-    text-shadow: 0 1px 0 #fff;
-  }
-  </style>
-    <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-5424359-1']);
-    _gaq.push(['_setDomainName', 'imquyi.com']);
-    _gaq.push(['_trackPageview']);
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-    </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <title>{{ page.title }} — {{ site.name }}</title>
+  {% include head.html %}
 </head>
 <body>
-  <div class="container">
-  <h1 class="sitename">Yi Qu | 屈艺</h1>
-  <ul class="nav pills">
-  <li><a href="/">Home</a></li>
-  <li><a href="/blog/">Blog</a></li>
-  <li><a href="{{ site.url }}/vitae/">Curriculum Vitae</a></li>
-</ul>
-{{ content }}
-<footer>
-  <p><small>Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> on GitHub | Copyright 2007 - {{site.time | date:"%Y"}} by <a href="http://imquyi.com">屈艺</a> | <span class="label label-info">{{site.time | date:"%Y-%m-%d %H:%M:%S"}}</span></small></p>
-</footer>
-</div>
+  {% include navigation.html %}
+
+  <div id="subheader">
+    <div class="container yue">
+      {% include vitae.html %}
+    </div>
+  </div>
+
+  <div id="main">
+    <div class="container yue">
+      {{ content }}
+    </div>
+  </div>
+  {% include footer.html %}
 </body>
 </html>

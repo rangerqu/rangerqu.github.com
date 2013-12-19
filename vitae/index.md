@@ -1,15 +1,15 @@
 ---
 layout: vitae
+title: Curriculum Vitae
 ---
 
-# Contact Information
+## Contact Information
 
-- College of Economics, Zhejiang University  
-	38 Zheda Road, Hangzhou 310027, China
+- 432 Waijingmao Building, 38 Zheda Road, Hangzhou 310027, China
 - Email: <mailto:yqu@zju.edu.cn>
-- Homepage: <http://imquyi.com/>
+- Homepage: [imquyi.com](http://imquyi.com/)
 
-# Education
+## Education
 
 **Zhejiang University**
 
@@ -22,10 +22,10 @@ layout: vitae
 - June 2010
 - B.Econ. (World Economy)
 - School of Economics and Management
-- 1^st Class Scholarship of Wuhan University
+- 1st Class Honors Award (Top 10%)
 - 学士学位论文《气候变化与低碳经济条件下的中美能源博弈》，获湖北省优秀学士学位论文奖
 
-# Papers
+## Papers
 
 
 - "Global Biofuel Use and China’s Food Security: Price and Policy Transmission Paths" (with Shuzhong Ma, Birong Zhang), REOD Working Papers, Dec. 2013.
@@ -35,25 +35,23 @@ layout: vitae
 
 <!--
 
-# Books
+## Books
 
 - 《中国粮食安全与全球粮食定价权——基于产业链视角的分析》（与马述忠、王军合著），XX：XX出版社，yyyy年
 
-# Book Sections
+## Book Sections
 
 - “基于开放视角推进区域现代化建设的政策建议”，见：马述忠等，《物质富裕与现代化浙江——基于区域开放视角》，XX：XX出版社，yyyy年：pp-pp
 
 -->
 
-# Research Experience
+## Research Experience
 
-- “中国粮食市场价格传导、交易成本与市场整合研究”，浙江省新苗人才计划（2013R401236），项目负责人
-- “我国粮食安全问题与全球粮食定价机制研究”，国家社会科学基金重点项目（10AGJ004），主要参与者
-- “基于全球产业链治理的我国农业产业安全研究”，浙江省自然科学基金重点项目（Z6110066），主要参与者
-- “非传统挑战对我国农业发展影响及应对研究”，浙江大学自主科研计划项目，主要参与者
-- “舟山自由港建设及其配套产业发展研究”，浙江大学海洋交叉项目，主要参与者
-- “国际粮食价格波动及其对我国粮食安全影响研究”，广东商学院国民经济研究中心重点招标项目（2013XM02），主要参与者
+- 项目负责人，“中国粮食市场价格传导、交易成本与市场整合研究”，浙江省新苗人才计划（2013R401236），2013-
+- 主要参与者，“基于全球产业链治理的我国农业产业安全研究”，浙江省自然科学基金重点项目（Z6110066），2012-
+- 主要参与者，“非传统挑战对我国农业发展影响及应对研究”，浙江大学自主科研计划项目，2011-
+- 主要参与者，“我国粮食安全问题与全球粮食定价机制研究”，国家社会科学基金重点项目（10AGJ004），2010-2013
 
-# Presentations
+## Presentations
 
 - 5th CAER-IFPRI Annual Conference, 17 Oct. 2013, Wuhan, China.

@@ -1,2 +1,23 @@
-markdown: rdiscount 
+name: Yi Qu
+url: "http://imquyi.com"
+author: 屈艺
 
+markdown: kramdown
+pygments: true
+permalink: /blog/:year/:month/:title/
+paginate: 5
+paginate_path: "page/:num/"
+
+links:
+  - name: Blog
+    url: /blog/
+  - name: Curriculum Vitae
+    url: /vitae/
+
+social:
+  - name: E-mail
+    url: "mailto:rangerqu@gmail.com"
+  - name: Twitter
+    url: "https://twitter.com/rangerqu"
+  - name: Weibo
+    url: "https://github.com/rangerqu"
