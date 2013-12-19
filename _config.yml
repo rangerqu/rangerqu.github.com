@@ -2,16 +2,18 @@ name: Yi Qu
 url: "http://imquyi.com"
 author: 屈艺
 
+google_analytics: UA-5424359-1
+
 markdown: kramdown
 pygments: true
 permalink: /blog/:year/:month/:title/
 paginate: 5
-paginate_path: "page/:num/"
+paginate_path: "blog/page/:num/"
 
 links:
   - name: Blog
     url: /blog/
-  - name: Curriculum Vitae
+  - name: Vitae
     url: /vitae/
 
 social:

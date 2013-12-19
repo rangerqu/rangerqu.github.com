@@ -259,6 +259,9 @@ a:hover {
   .entry-list .detail {
     margin-left: 0;
   }
+  .entry-list .entry-icon {
+    display: none;
+  }
 }
 
 .yue pre {
