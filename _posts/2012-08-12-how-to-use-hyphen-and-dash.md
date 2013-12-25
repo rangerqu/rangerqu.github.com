@@ -9,7 +9,7 @@ tags: [English, productivity]
 
 在英文中，这三个符号分别叫做 hyphen (-)、en dash (–) 和 em dash (—)，下面分别介绍一下这三个符号的使用方法：
 
-# Hyphen (-)
+## Hyphen (-)
 
 Hyphen 就是连字号，主要用在以下几种情况：
 
@@ -26,7 +26,7 @@ Hyphen 就是连字号，主要用在以下几种情况：
 	- Tel: 585-362-4115
 	- ISBN: 7-80087-535-0
 
-# En dash (–)
+## En dash (–)
 
 En dash 是连接号，其长度等于大写字母 N，是 em dash 的一半，主要用在以下几种情况：
 
@@ -50,7 +50,7 @@ En dash 是连接号，其长度等于大写字母 N，是 em dash 的一半，�
 
 此外，由于 en dash 的长度通常与加号（+）一样，所有有的时候也被用来替代减号（−），但实际上 en dash 与减号是不同的。
 
-# Em dash (—)
+## Em dash (—)
 
 Em dash 的长度等于大写字母 M，使用方法与中文的破折号（——）类似， 主要用在以下几种情况：
 
@@ -66,7 +66,7 @@ Em dash 的长度等于大写字母 M，使用方法与中文的破折号（—�
 
 另外，还有 2-em dash 和 3-em dash 两种用法：
 
-## 2-em dash
+### 2-em dash
 
 2-em dash 即两个 em dash 连写，主要用于：
 
@@ -75,7 +75,7 @@ Em dash 的长度等于大写字母 M，使用方法与中文的破折号（—�
 1. 表示在句子中省略了单词，这时前面需要加空格，例如
 	- I distinctly heard him say, “Go away or I’ll ——”.
 
-## 3-em dash
+### 3-em dash
 
 3-em dash 即三个 em dash 连写，主要用于：
 
@@ -84,21 +84,23 @@ Em dash 的长度等于大写字母 M，使用方法与中文的破折号（—�
 	- Acemoglu, Daron, 1999. “Patterns of Skill Premia” NBER Working Paper No. 7018.
 	- ———, 2001. “Directed Technical Change”, NBER Working Paper No. 8287.
 
+***
+
 那么，如何在电脑上输入这几种符号呢？
 
-# Hyphen (-)
+## Hyphen (-)
 
 Hyphen 的 Unicode 编码是 U+2010，在 MS Word 里可以先输入 2010 再按 `Alt + X`。
 
 不过在 ASCII 编码系统中，hyphen 被编为45号字符「hyphen-minus」，也就是我们电脑键盘上 `0` 和 `=` 之间的那个 `-` 。在通常情况下我们直接使用这个符号就可以了。
 
-# En dash (–)
+## En dash (–)
 
 En dash 的 Unicode 编码是 U+2013，在 MS Word 里可以先输入 2013 再按 `Alt + X`，更简便的方法是利用 MS Word 的自动更正功能：按空格，按两下 `-` ，再按空格，例如输入 `this is -- a test` ，将转换为「this is – a test」（当然，要注意 en dash 前后一般是不留空格的）。
 
 En dash 在 Windows 里可以用 `Alt + 0150` （即按下 `Alt` 键的同时依次按下 0150）来输入，在 Mac 里可以用 `⌥ + -` 来输入，在 TeX 里可以用 `--` 输入，在 HTML 里可以用 `&ndash;` 来输入。
 
-# Em dash (—)
+## Em dash (—)
 
 Em dash 的 Unicode 编码是 U+2014，在 MS Word 里可以先输入 2014 再按 `Alt + X`，更简便的方法是利用 MS Word 的自动更正功能：不加空格，直接按两下 `-`，例如
 
@@ -106,7 +108,7 @@ Em dash 的 Unicode 编码是 U+2014，在 MS Word 里可以先输入 2014 再�
 
 Em dash 在 Windows 里可以用 `Alt + 0151` 来输入，在 Mac 里可以用 `⌥ + ⇧ + -` 来输入，在 TeX 里可以用 `---` 输入，在 HTML 里可以用 `&mdash;` 来输入。
 
-# Minus sign (−)
+## Minus sign (−)
 
 减号的 Unicode 编码是 U+2212，在 MS Word 里可以先输入 2212 再按 `Alt + X`。
 

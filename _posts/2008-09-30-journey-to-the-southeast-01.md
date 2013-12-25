@@ -5,7 +5,7 @@ categories: [记事本儿]
 tags: [travel, Wuhan]
 ---
 
-# 1 Leaving Wuhan
+## 1 Leaving Wuhan
 
 学生证居然放在保险箱里，那么匪夷所思的地方，害我找了好半天。
 

@@ -39,6 +39,8 @@ tags: [presentation, methodology]
 
 <iframe src="http://player.youku.com/embed/XMTI1MjcyOTMy" width="510" height="498" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
+***
+
 此外，在演讲的过程中也有几点可以向乔布斯学习。
 
 ## 1 保持眼神交流
