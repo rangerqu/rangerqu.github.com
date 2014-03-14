@@ -11,17 +11,15 @@ title: Curriculum Vitae
 
 ## Education
 
-**Zhejiang University**
+College of Economics, **Zhejiang University**
 
 - Expected June 2015
 - Joint Master/Ph.D. Program (International Economics)
-- College of Economics
 
-**Wuhan University**
+School of Economics and Management, **Wuhan University**
 
 - June 2010
 - B.Econ. (World Economy)
-- School of Economics and Management
 - 1st Class Honors Award (Top 10%)
 - 学士学位论文《气候变化与低碳经济条件下的中美能源博弈》，获湖北省优秀学士学位论文奖
 
