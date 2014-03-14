@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 ## Contact Information
 
-- 432 Waijingmao Building, 38 Zheda Road, Hangzhou 310027, China
+- 432 Waijingmao Building - 38 Zheda Road - Hangzhou 310027, China
 - Email: <mailto:yqu@zju.edu.cn>
 - Homepage: [imquyi.com](http://imquyi.com/)
 
@@ -14,19 +14,19 @@ title: Curriculum Vitae
 College of Economics, **Zhejiang University**
 
 - Expected June 2015
-- Joint Master/Ph.D. Program (International Economics)
+- Joint Master/Ph.D. Program, International Economics
 
-School of Economics and Management, **Wuhan University**
+Economics and Management School, **Wuhan University**
 
 - June 2010
-- B.Econ. (World Economy)
+- B.Econ., International Economics and Trade
 - 1st Class Honors Award (Top 10%)
 - 学士学位论文《气候变化与低碳经济条件下的中美能源博弈》，获湖北省优秀学士学位论文奖
 
 ## Papers
 
 
-- "Global Biofuel Use and China’s Food Security: Price and Policy Transmission Paths" (with Shuzhong Ma, Birong Zhang), REOD Working Papers, Dec. 2013.
+- "Global Biofuel Use and China’s Food Security: Price and Policy Transmission Paths" (with Shuzhong Ma, Birong Zhang), REOD Workin"g Papers, Dec. 2013.
 - "Market Integration and Transaction Costs: Analysis of Grain Markets in China" (with Shuzhong Ma), 5th CAER-IFPRI Annual Conference, 17-18 Oct. 2013, Wuhan, China.
 - “全球化背景下的中国粮食安全评价”（与马述忠合作），《云南师范大学学报（哲学社会科学版）》，第45卷第5期，2013年9月，第120-130页。
 - “市场整合、交易成本与粮食安全——基于中国粮食市场空间价格传导的实证”（与马述忠合作），空间经济学国际研讨会（2012），2012年11月17-18日，杭州。
