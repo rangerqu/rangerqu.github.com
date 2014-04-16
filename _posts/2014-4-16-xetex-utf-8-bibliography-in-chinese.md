@@ -19,7 +19,7 @@ tags: [TeX]
 	fixbbl.cfg			libintl3.dll
 	fixbbl.exe			replace_fs.exe
 
-以编译 test.tex 和 test.bib 为例，依次运行以下命令，或者存为 .bat 文件运行，就可以得到中文文献按拼音排序的结果了。示例文件可以在[这里](http://vdisk.weibo.com/s/igDHU8nU4ZBQ)下载。
+以编译 test.tex 和 test.bib 为例，依次运行以下命令，或者存为 .bat 文件运行，就可以得到中文文献按拼音排序的结果了。示例文件可以在[这里](http://vdisk.weibo.com/s/igDHU8nU4ZDO)下载。
 
 
 	xelatex test
