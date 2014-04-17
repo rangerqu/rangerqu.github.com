@@ -19,7 +19,7 @@ tags: [TeX]
 	fixbbl.cfg			libintl3.dll
 	fixbbl.exe			replace_fs.exe
 
-以编译 test.tex 和 test.bib 为例，依次运行以下命令，或者存为 .bat 文件运行，就可以得到中文文献按拼音排序的结果了。示例文件可以在[这里](http://vdisk.weibo.com/s/igDHU8nU4ZDO)下载。
+以编译 test.tex 和 test.bib 为例，依次运行以下命令，或者存为 .bat 文件运行，就可以得到中文文献按拼音排序的结果了。示例文件可以在[这里](http://pan.baidu.com/s/1qWmA1ly)下载。
 
 
 	xelatex test
@@ -54,7 +54,7 @@ tags: [TeX]
 ---
 对于 OS X 而言，由于无法使用 fixbbl 程序，所以只有一个妥协的方案：由于 GBK 编码中来自 GB 2312-80 的部分，即6000多个常用汉字，是按照拼音排序的，所以按 GBK 编码排序可以保证大部分文献排序正确，对于少数漏网之鱼就只能手动修改 .bbl 文件了。
 
-在 OS X 下实现这个操作不需要额外的程序，依次运行以下命令，或者存为 .sh 文件运行，就可以得到中文文献按（伪）拼音排序的结果了。示例文件可以在[这里](http://vdisk.weibo.com/s/igDHU8nU4ZBS)下载。
+在 OS X 下实现这个操作不需要额外的程序，依次运行以下命令，或者存为 .sh 文件运行，就可以得到中文文献按（伪）拼音排序的结果了。示例文件可以在[这里](http://pan.baidu.com/s/1mg4t6U8)下载。
 
 	xelatex test
 	mv GBT7714-2005AYLang-UTF8.bst GBT7714-2005AYLang-UTF8.bst8
