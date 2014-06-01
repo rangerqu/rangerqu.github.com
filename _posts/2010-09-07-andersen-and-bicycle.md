@@ -11,7 +11,7 @@ tags: [Denmark, Expo, Hangzhou, travel]
 
 ![Denmark Pavallion](http://ww4.sinaimg.cn/mw1024/abb3ee10tw1e6r68zk5lgj20p00gq40l.jpg)
 
-在世博会的时候，Alex 嚷着一定要去丹麦馆。丹麦馆最出名的当属小美人鱼，这座雕塑家 Edvard Eriksen 在1913年创作的作品第一次离开哥本哈根，来到上海。在小美人鱼原来的位置，长堤公园，则放置着艾未未的作品“美人鱼交换”。艾未未用一台安装在丹麦馆的监控摄像头把小美人鱼和她周围的实时影像传输到长堤公园的 LED 屏幕以及[这个网站](http://www.mermaidexchange.com/)上。《纽约客》的[一篇报道](http://www.box.net/shared/53dopgqudc)上讲，最初丹麦人觉得这个超大号的监控摄像装置并太不美好，而艾未未回答说，That’s our real life, everybody is under some kind of surveillance camera. It’s not beautiful.
+在世博会的时候，Alex 嚷着一定要去丹麦馆。丹麦馆最出名的当属小美人鱼，这座雕塑家 Edvard Eriksen 在1913年创作的作品第一次离开哥本哈根，来到上海。在小美人鱼原来的位置，长堤公园，则放置着艾未未的作品“美人鱼交换”。艾未未用一台安装在丹麦馆的监控摄像头把小美人鱼和她周围的实时影像传输到长堤公园的 LED 屏幕以及[这个网站](http://www.mermaidexchange.com/)上。《纽约客》的[一篇报道](http://www.newyorker.com/reporting/2010/05/24/100524fa_fact_osnos)上讲，最初丹麦人觉得这个超大号的监控摄像装置并太不美好，而艾未未回答说，That’s our real life, everybody is under some kind of surveillance camera. It’s not beautiful.
 
 丹麦馆的建筑环绕放置小美人鱼的水面而建，沿着螺旋形的坡道可以步行甚至骑自行车，从地面盘旋两圈来当屋顶，然后再盘旋而下。有蓝色的特殊材料铺设的自行车专用车道，还有既可以锁车又可以坐人的长凳。这是现代丹麦城市的缩影，鼓励步行和骑车，排斥驾驶汽车出行。
 
