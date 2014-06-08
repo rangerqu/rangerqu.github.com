@@ -13,7 +13,7 @@ tags: [development, Zhihu]
 
 大家肯定会说大城市交通太不方便了，随便去个地方都要耗上大半天。需要指出的是，交通便利与否跟城市大小没有必然的联系，更重要的是城市的规划（如下图）和公共交通的发达程度。事实上，城市人口达到一定规模，地铁等大型交通设施反而会使交通更便利。
 
-![City Diagrams](http://ww2.sinaimg.cn/large/abb3ee10jw1dw7xo43fupj.jpg)
+![City Diagrams](http://ww1.sinaimg.cn/large/61c4c640gw1eh6j9lw8hrj20i20i2tcc.jpg)
 
 ##经济发展
 
