@@ -5,20 +5,25 @@ title: Curriculum Vitae
 
 ## Contact Information
 
-- 432 Waijingmao Building - 38 Zheda Road - Hangzhou 310027, China
-- Email: <mailto:yqu@zju.edu.cn>
+- Raum 9.153 - Department für Agrarökonomie und Rurale Entwicklung - Platz der Göttinger Sieben 5 - 37073 Göttingen, Germany
+- Email: <mailto:yqu@gwdg.de>
 - Homepage: [imquyi.com](http://imquyi.com/)
 
 ## Education
 
+Department of Agricultural Economics and Rural Development, **Georg-August-Universität Göttingen**
+
+- Sept. 2014 ~
+- Visiting Ph.D. student
+
 College of Economics, **Zhejiang University**
 
-- Expected June 2015
+- Sept. 2010 ~
 - Joint Master/Ph.D. Program, International Economics
 
 Economics and Management School, **Wuhan University**
 
-- June 2010
+- Sept. 2006 ~ June 2010
 - B.Econ., International Economics and Trade
 - 1st Class Honors Award (Top 10%)
 - 学士学位论文《气候变化与低碳经济条件下的中美能源博弈》，获湖北省优秀学士学位论文奖
