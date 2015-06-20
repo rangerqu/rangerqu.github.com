@@ -18,7 +18,7 @@ Department of Agricultural Economics and Rural Development, **Georg-August-Unive
 
 College of Economics, **Zhejiang University**
 
-- Sept. 2010 ~
+- July 2010 ~
 - Joint Master/Ph.D. Program, International Economics
 
 Economics and Management School, **Wuhan University**
