@@ -13,7 +13,7 @@ tags: [ecnomoics, history, literature, urban]
 
 哥伦比亚大学的两位经济学家 D. Davis 和 D. Weinstein 试图利用来自日本的历史数据来检验城市形成和发展的这些可能假设。[^1]
 
-[^1]: Davis, Donald R., and David E. Weinstein. 2002. "Bones, Bombs, and Break Points: The Geography of Economic Activity ." American Economic Review, 92(5): 1269-1289.
+[^1]: Davis, Donald R., and David E. Weinstein. 2002. "Bones, Bombs, and Break Points: The Geography of Economic Activity." American Economic Review, 92(5): 1269-1289.
 
 研究者们首先收集了近四万个来自绳文时代（公元前6000年至公元前300年）和弥生时代（公元前300年至公元300年）考古遗迹的资料，并以各地区考古遗迹的密度来估计史前史时期日本的人口分布。加上之后信史时期的人口统计数据，就获得了日本人口分布的长达八千年的时间序列。从这个时间序列中，我们可以观察到自石器时代开始，日本各地之间的人口分布就存在高度的差异化，约三分之一的人口集中在密度最高的五个地区。这说明集聚现象在城市诞生之初就一直存在着。另外，历史上各个时期的城市大小排名与现代的排名之间具有很高的相关性。这说明城市的集聚具有很强的延续性。
 
